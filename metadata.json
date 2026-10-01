@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI",
+  "description": "Futuristic real-time voice assistant with a witty, sassy female persona",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
